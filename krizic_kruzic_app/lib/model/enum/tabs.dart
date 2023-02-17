@@ -1,0 +1,1 @@
+enum Tabs { EXISTING_GAMES, BEST_PLAYER }
